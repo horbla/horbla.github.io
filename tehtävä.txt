@@ -1,0 +1,75 @@
+toinen sivu, kasa linkkejä (12) mitä käytetään
+sivulla ei tartte muuta ku otsikko
+taulukko jossa 12 linkkiä ja jokainen linkki on kuva (kohteen logo)
+ryhmittely
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>
+			Kuvalinkkisivu
+		</title>
+	</head>
+	<body>
+		<h1>Linkkejä</h1>
+		<table style="width:25%" border="2">
+			<tr>
+				<th>Kauppoja</th>
+				<th>Uutiset</th>
+				<th>Saappaat</th>
+				<th>Bensikset</th>
+			</tr>
+			<tr>
+				<td><a href="https://www.prisma.fi">
+				<img src="./prisma.png" alt="Prisma" style="width:80px;">
+				</a></td>
+				
+				<td><a href="https://www.yle.fi">
+				<img src="./yle.png" alt="Yle" style="width:80px;">
+				</a></td>
+				
+				<td><a href="https://www.nokianjalkineet.fi">
+				<img src="./nokian.png" alt="Nokian" style="width:80px;">
+				</a></td>
+				
+				<td><a href="https://www.st1.fi">
+				<img src="./st1.png" alt="St1" style="width:80px;">
+				</a></td>
+			</tr>
+			<tr>
+				<td><a href="https://www.k-ruoka.fi">
+				<img src="./citymarket.png" alt="Citymarket" style="width:40px;">
+				</a></td>
+				
+				<td><a href="https://www.hs.fi">
+				<img src="./download.png" alt="HS" style="width:40px;">
+				</a></td>
+				
+				<td><a href="https://www.fi.tretorn.com">
+				<img src="./tretorn.jpg" alt="Tretorn" style="width:40px;">
+				</a></td>
+				
+				<td><a href="https://www.abcasemat.fi">
+				<img src="./abc.png" alt="" style="width:40px;">
+				</a></td>
+			</tr>
+			<tr>
+				<td><a href="https://www.lidl.fi">
+				<img src="./lidl.png" alt="Lidl" style="width:40px;">
+				</a></td>
+				
+				<td><a href="https://www.is.fi">
+				<img src="./is.png" alt="IS" style="width:40px;">
+				</a></td>
+				
+				<td><a href="https://www.outnorth.fi/viking-footwear">
+				<img src="./viking.png" alt="Viking" style="width:40px;">
+				</a></td>
+				
+				<td><a href="https://www.neste.fi">
+				<img src="./neste.png" alt="Neste" style="width:70px;">
+				</a></td>
+		</table>		
+	</body>
+</html>
